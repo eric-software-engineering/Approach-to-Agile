@@ -38,7 +38,7 @@ Running the unit tests, code reviews, deployments, regression tests, notificatio
 **A real life example** : as the Scrum Master of the internal Digital Agency of Ninemsn, we encountered a spike of work as more and more contracts kept coming in. The deadlines were short, and the clients very demanding. The solution was to hire a couple of contractors during that period, and to reduce the number of meetings that the team had to go to to free up some time in their calendar. Finally, I was made the principal point of contact for any queries, so the team could focus on their work. The projects were delivered on time.
 
 
-## **Q - What would you do if you notice that coding standards and re-use aren&#39;t as good as they could be? Can you introduce an iterative process suggesting how this could be improved?**
+## Q - What would you do if you notice that coding standards and re-use aren&#39;t as good as they could be? Can you introduce an iterative process suggesting how this could be improved?
 
 **Pair-programming** can help improving the coding quality, as software engineers can discuss their views about their proposed solutions and bring their shared knowledge of the code base.
 
@@ -59,7 +59,7 @@ Finally, a round of **Load Testing** helps finding any bottlenecks introduced in
 **A real life example** : While working at IAG, each developer had Resharper installed to get instant feedback, then the story was automatically reviewed in SonarQube after being pushed. After that, a peer would review the story in Stash, and finally the story was load tested by another team.
 
 
-## **Q - The application we have been working on has recently been encountering a number of different error spikes with random downtime throughout the day. How would you approach the debugging process to identify the root cause?**
+## Q - The application we have been working on has recently been encountering a number of different error spikes with random downtime throughout the day. How would you approach the debugging process to identify the root cause?
 
 Does the issue follow a release? It can help knowing if the issues has been caused by a change in the code base, or if the issue is caused by an external factor.
 
@@ -88,7 +88,7 @@ We can check also that the Internet Service Provider (ISP) hasn&#39;t encountere
 **A real life example** : after a deployment of JobAdder, one of the script seemed not to be working properly. After investigation, it turned out that the automatic increment of version number for the refresh of the script cache didn&#39;t occur. It showed that a previous deployment at broken it. It was then fixed and the feature worked as intended.
 
 
-## ** Q - What would you do if you noticed that databased responsiveness is down? What steps would you take to troubleshoot the issue?**
+## Q - What would you do if you noticed that databased responsiveness is down? What steps would you take to troubleshoot the issue?
 
 If I can remote desktop onto the server, I would open the **Performance Monitor** and check that the check hard drive or the RAM memory aren&#39;t full, that the CPU is not overloaded, and that the I/Os of the hard drive are not plateauing.
 
@@ -115,7 +115,7 @@ Also, **caching** is a great way of resolving a slow response time for long quer
 **A real life example** : while working at Ninemsn, some live statistic requests took too much time to execute if accessed by a large number of clients. The solution was to cache the results for one minute using Akamai. We never had any issues with these queries from then on.
 
 
-## **Q - In mid-sprint, you have been asked to investigate a task/issue and you aren&#39;t entirely comfortable with all elements of the task. How would you approach this? If this happened during sprint planning would you speak up on the spot or would you prefer to troubleshoot yourself first?**
+## Q - In mid-sprint, you have been asked to investigate a task/issue and you aren&#39;t entirely comfortable with all elements of the task. How would you approach this? If this happened during sprint planning would you speak up on the spot or would you prefer to troubleshoot yourself first?
 
 I believe that **good communication** is paramount in this context. My concerns would be brought up as soon as possible, but also at the right moment: during the stand-up for instance.
 
@@ -130,7 +130,7 @@ If I believe the Story may be difficult to tackle, I may bring this up during th
 **A real life example** : While working at Virgin Mobile, I chatted with a colleague and realised that he was working on a feature that was changing the exact same code than the feature I was on. The issue was escalated to the Scrum Master and the Product owner, and we decided to merge the branches of the features and release them together.
 
 
-## ** Q - In mid sprint the scrum master is away sick and cannot be contacted. You encounter a blocker regarding an external resource – what would you do?**
+## Q - In mid sprint the scrum master is away sick and cannot be contacted. You encounter a blocker regarding an external resource – what would you do?
 
 I would let the team know during the stand-up, maybe the Product Owner or the Project Manager are aware of this issue and know about how to resolve it.
 
