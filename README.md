@@ -3,7 +3,7 @@ These are my answers to a set of screening questions that I worked on. It gives 
 
 **Q - You have been part of the team for 6 months, every sprint story has been slipping by 10-20% completeness, what could you suggest are possible causes of this?**
 
-Is the team motivated enough? The core of motivation is within these three elements:
+Is the team motivated enough? The pillars of motivation are:
 
 - **Mastery** : people want to get better at what they do. Are they given the opportunity to sharpen their tools and learn new technologies/techniques?
 - **Autonomy** : Do the team members feel trusted and empowered?
