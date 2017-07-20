@@ -1,8 +1,6 @@
 # Approach-to-Agile
 These are my answers to a set of screening questions that I worked on. It gives an insight on how I approach Agile and Technology.
 
-These are my answers to a set of screening questions that I worked on. It gives an insight on how I approach Agile and Technology.
-
 **Q - You have been part of the team for 6 months, every sprint story has been slipping by 10-20% completeness, what could you suggest are possible causes of this?**
 
 Is the team motivated enough? The core of motivation is within these three elements:
